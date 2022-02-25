@@ -5,4 +5,5 @@ An application simulating a Bingo game and calculating winning rate of each bing
 - Generate bingo boards filling with random numbers. 
 - Simulate given number of games with given number of players.
 - Check wins in a vertical, horizontal, or two distinct diagonal rows at which turn the winner(s) appeared. 
-- Record how many players win in each type and in each turn. Record the execution time.
+- Record how many players win in each type and in each turn. 
+- Record the execution time.
