@@ -7,3 +7,6 @@ An application simulating a Bingo game and calculating winning rate of each bing
 - Check wins in a vertical, horizontal, or two distinct diagonal rows at which turn the winner(s) appeared. 
 - Record how many players win in each type and in each turn. 
 - Record the execution time.
+
+![i1](output-capture.PNG)
+
