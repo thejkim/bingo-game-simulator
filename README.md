@@ -8,5 +8,5 @@ An application simulating a Bingo game and calculating winning rate of each bing
 - Record how many players win in each type and in each turn. 
 - Record the execution time.
 
-![i1](output-capture.PNG)
+![i1](output-capture-300-30000.PNG)
 
